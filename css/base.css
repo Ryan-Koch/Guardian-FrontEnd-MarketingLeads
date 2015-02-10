@@ -1,0 +1,39 @@
+#header {
+  background-color: #042140;
+}
+
+#logonFormContainer {
+  position: relative;
+  left: 25%;
+  margin-top: 50px;
+  width: 50%;
+}
+
+#logonForm input {
+  width: 100%;
+  margin: 10px;
+  padding: 5px;
+  clear: both;
+}
+#logonForm button {
+  width: 25%;
+  position: relative;
+  left: 76.75%;
+  clear: both;
+}
+
+#timeOptionsBar {
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+#firstInfobox {
+  position: relative;
+}
+
+.container {
+  position: absolute;
+  margin: 0 auto;
+  width: 100%;
+}
